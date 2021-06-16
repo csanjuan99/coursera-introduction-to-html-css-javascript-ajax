@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+.navbar-brand span{
+    font-size: 2.5rem;
+}
+.navbar-nav{
+    font-size: 1.5rem;
+    text-align: center;
+}
+#page-heading{
+    margin: 20px;
+    font-size: 3rem;
+}
+#chicken{
+    background-color: lightgray;
+    padding: 15px;
+    margin: 15px 5px;
+}
+#chicken p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+#beef{
+    background-color: lightgray;
+    padding: 15px;
+    margin: 15px 5px;
+}
+#beef p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+#sushi{
+    background-color: lightgray;
+    padding: 15px;
+    margin: 15px 5px;
+}
+#sushi p{
+    font-size: 1.5rem;
+    text-align: justify;
+}
